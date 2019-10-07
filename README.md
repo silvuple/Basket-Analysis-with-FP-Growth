@@ -14,7 +14,7 @@ It is a transnational data set which contains all the transactions occurring bet
 
 ### Tools:
 * Python 3
-* Mlextend
+* Mlxtend
 * Pandas
 * Excel
 
